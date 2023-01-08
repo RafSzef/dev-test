@@ -1,5 +1,7 @@
 package task1;
 
+import Utility.InputParser;
+
 import java.util.List;
 
 public class Task1 {
