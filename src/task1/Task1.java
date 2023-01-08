@@ -1,6 +1,6 @@
 package task1;
 
-import Utility.InputParser;
+import utility.InputParser;
 
 import java.util.List;
 
